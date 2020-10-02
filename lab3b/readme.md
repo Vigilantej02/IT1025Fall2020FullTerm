@@ -4,7 +4,7 @@
 ## Career Exploration
 
 ## Industry Certification
-* Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
+* CompTIA is a cybersecurity certification to show you are adept at analytics based security.
 
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
