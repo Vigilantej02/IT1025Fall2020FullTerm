@@ -3,14 +3,6 @@
 # Career Exploration
 ## Career Exploration
 
-#### Tri-C College Central: 
-* Register for a student account.
-* Use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,)  name the file: CollegeCentral and upload to your lab folder. 
-
-#### Bureau of Labor Statistics
-* Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear.
-Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
-
 ## Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
 
