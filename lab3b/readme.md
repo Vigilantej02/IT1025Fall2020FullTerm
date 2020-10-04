@@ -7,11 +7,11 @@
 * CompTIA is a cybersecurity certification to show you are adept at analytics based security.
 
 ## College Certificates
-* Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
-* Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
+* Out of the certificates offered at Tri-C I will probably go after the post-degree certificate for programming and development.
+* In order to become co-op ready a student must: be enrolled full time at Tri-C, have taken atleast 12 credit hours AND atleast a 2.75 GPA. The benefits of doing an internship/co-op is that you get actual hands-on experience you can put on future resumes.
 
 ## Professional Membership
-* Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
+* One of the organziations I'm interested in is NCCDC because I am interested in the security side of things. The benefits would be getting hands-on experience.
 
 # Conclusion
-Summary of your understanding from this week's lab
+The purpose of this weeks lab was to learn more about certifcations, what career we're exactly getting ourselves into and how internships can help with getting a job.
